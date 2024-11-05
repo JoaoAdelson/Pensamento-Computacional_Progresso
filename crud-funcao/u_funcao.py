@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
-import util.validate as val
+import util_.validate as val
 
 class AlterarFuncao:
     def __init__(self, janela_mestre, idt):

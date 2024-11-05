@@ -1,4 +1,4 @@
-import util.Inputs as fi
+import util_.Inputs as fi
 
 nota1 = fi.input_int('Digite a primeira nota', 0,10)
 nota2 = fi.input_int('Digite a segunda nota', 0,10)

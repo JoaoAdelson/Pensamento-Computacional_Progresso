@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
-from util.db import SQL
+from util_.db import SQL
 from c_funcao import IncluirFuncao
 
 from d_funcao import ExcluirFuncao

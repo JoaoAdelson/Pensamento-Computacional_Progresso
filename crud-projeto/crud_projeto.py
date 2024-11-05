@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
-from util.db import SQL
+from util_.db import SQL
 from c_projeto import IncluirProjeto
 
 from u_projeto import AlterarProjeto

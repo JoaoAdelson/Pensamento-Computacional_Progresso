@@ -1,4 +1,4 @@
-from util.db import SQL
+from util_.db import SQL
 
 colaboradores = [['222.222.222-22', 'Renato Sales dos Santos', 'renato.sales@gmail.com', 'A', '123#@!'],
                  ['333.333.333-33', 'Francisco Regis', 'francisco.regis@gmail.com', 'C', '098)(*'],

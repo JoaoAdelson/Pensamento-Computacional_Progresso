@@ -1,6 +1,6 @@
 #Questâo 2
 from prettytable import PrettyTable
-from util.db import SQL
+from util_.db import SQL
 
 sql = SQL(esquema='bd_planejamento')
 cmd = '''SELECT nme_projeto, dta_ini_projeto, dta_fim_projeto FROM tb_projeto'''

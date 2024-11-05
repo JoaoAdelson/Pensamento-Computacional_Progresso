@@ -1,5 +1,5 @@
 #Questão 1
-from util.db import SQL
+from util_.db import SQL
 
 projetos = [['Controle de acesso de visitantes', '2024-10-05'],
                  ['Controle de Atendimento de Monitoria', '2024-10-06'],

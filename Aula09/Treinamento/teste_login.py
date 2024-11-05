@@ -1,4 +1,4 @@
-from util.db import SQL
+from util_.db import SQL
 
 cpf = input('Digite o CPF: ')
 senha = input('Digite o Senha: ')

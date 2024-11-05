@@ -1,4 +1,4 @@
-from util.db import SQL
+from util_.db import SQL
 
 sql = SQL(esquema='bd_planejamento')
 
