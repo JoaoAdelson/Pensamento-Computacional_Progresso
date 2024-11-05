@@ -6,7 +6,7 @@ Mostre o valor das variáveis “x”, “y” e “z”
 '''
 
 x = 7
-y = 3
-z = x * y
+a = 3
+z = x * a
 
-print(x, y, z)
+print(x, a, z)
